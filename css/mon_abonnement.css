@@ -113,3 +113,8 @@ footer{
     height: 150vh;
   }
 }
+@media (max-width:500px) {
+    body{
+        height: 200vh;
+    }
+}
